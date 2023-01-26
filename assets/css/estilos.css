@@ -1,16 +1,18 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
 /* Hero Section */
-
-#Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+h1
+{
+  color: #000;
+}
+#Hero-Section
+{
+  background-image: url(../img/imagen01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
-
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
